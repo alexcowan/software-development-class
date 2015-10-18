@@ -78,7 +78,7 @@ Drive to completion of the static page concept.
 <h3>Post-Class Assignments</h3>
 <ol>
 	<li><strong>Do/Individual: Finish Your Static Page</strong>
-<br>WHAT? Begin to create your static page. While this is an individual assignment, you will likely need to coordinate as a group. Be sure to add the following set of comments demonstrating your understanding of the individual HTML+CSS concepts: <br>COMING SOON. <br> Be prepared to explain how it delivers (will deliver) on your user stories and prototypes.
+<br>WHAT? Finish your static page. While this is an individual assignment, you will likely need to coordinate as a group. Be sure to add the following set of comments demonstrating your understanding of the individual HTML+CSS concepts: <br>COMING SOON. <br> Be prepared to explain how it delivers (will deliver) on your user stories and prototypes.
 <br><br>WHERE? Submit the URL of the page.</li>
 </ol>
 
