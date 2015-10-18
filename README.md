@@ -31,7 +31,7 @@ WHERE? Using the <a href="https://docs.google.com/document/d/1M7UGO-XymKBNfFvq
 <br> We'll spend part of class time working with help available (lab).
 <h3>Post-Class Assignments</h3>
 <ol>
-	<li><strong>Do/Individual: CodeAcademy Tutorial on HTML+CSS (~2 hours)</strong>
+	<li><strong>Do/Individual: CodeAcademy Tutorial on HTML+CSS</strong>
 <br>WHAT? Complete the <a href="https://www.codecademy.com/en/tracks/web/" target="blank">CodeAcademy tutorial on HTML+CSS</a> up to and including the module 'HTML STRUCTURE: TABLES, DIVS, AND SPANS'
 <br><br>WHERE? Submit the completion screen.</li>
 </ol>
@@ -44,14 +44,13 @@ Continue on HTML & CSS and prepare for student projects applying those new skill
 <br> We'll spend part of class time working with help available (lab).
 <h3>Post-Class Assignments</h3>
 <ol>
-	<li><strong>Do/Individual: CodeAcademy Tutorial on HTML+CSS (30-60 minutes)</strong>
+	<li><strong>Do/Individual: CodeAcademy Tutorial on HTML+CSS</strong>
 <br>WHAT? Complete the <a href="https://www.codecademy.com/en/tracks/web/" target="blank">CodeAcademy tutorial on HTML+CSS</a> up to and including the module 'Introduction to CSS' (just one module). 
 <br><br>WHERE? Submit the completion screen.</li>
 	<li><strong>Do/Individual: Design a Page (30-90 minutes)</strong>
 <br>WHAT? Define your objectives for the upcoming assignment 'Create a Static Page with HTML+CSS'. This should include <a href="http://www.alexandercowan.com/best-agile-user-story/" target="blank">user stories</a> and prototypes in Balsamiq. 
 <br><br>WHERE? Place this in Section 3 of your Group Venture Design doc using an H3. Name it '[your initials] Static Page Concept'. Add a bookmark in the Google Doc and submit that link.</li>
 </ol>
-
 <h2>Session 3: Finish HTML+CSS, Set up Wordpress, Start Developing<h2>
 <h3>Objective</h3>
 Finish HTML & CSS, set up a team workspace on WP Engine for Wordpress and begin individual page executions. 
@@ -60,7 +59,7 @@ Finish HTML & CSS, set up a team workspace on WP Engine for Wordpress and begin 
 <br> We'll spend part of class time working with help available (lab).
 <h3>Post-Class Assignments</h3>
 <ol>
-	<li><strong>Do/Individual: Finish CodeAcademy Tutorial on HTML+CSS (80-120 minutes)</strong>
+	<li><strong>Do/Individual: Finish CodeAcademy Tutorial on HTML+CSS</strong>
 <br>WHAT? Complete the <a href="https://www.codecademy.com/en/tracks/web/" target="blank">CodeAcademy tutorial on HTML+CSS</a>. 
 <br><br>WHERE? Submit the completion screen.</li>
 	<li><strong>Do/Group: Set up Accout & Users on WP Engine</strong>
@@ -69,4 +68,109 @@ Finish HTML & CSS, set up a team workspace on WP Engine for Wordpress and begin 
 	<li><strong>Do/Individual: Begin Your Static Page</strong>
 <br>WHAT? Begin to create your static page. While this is an individual assignment, you will likely need to coordinate as a group. Be sure to add the following set of comments demonstrating your understanding of the individual HTML+CSS concepts: <br>COMING SOON. 
 <br><br>WHERE? This isn't due until the next session, but if you're done, submit the URL of the page.</li>
+</ol>
+<h2>Session 4: Finish Your Static Page<h2>
+<h3>Objective</h3>
+Drive to completion of the static page concept. 
+<h3>In-Class Materials</h3>
+(COMING SOON) 
+<br> We'll spend part of class time working with help available (lab).
+<h3>Post-Class Assignments</h3>
+<ol>
+	<li><strong>Do/Individual: Finish Your Static Page</strong>
+<br>WHAT? Begin to create your static page. While this is an individual assignment, you will likely need to coordinate as a group. Be sure to add the following set of comments demonstrating your understanding of the individual HTML+CSS concepts: <br>COMING SOON. <br> Be prepared to explain how it delivers (will deliver) on your user stories and prototypes.
+<br><br>WHERE? Submit the URL of the page.</li>
+</ol>
+
+<h2>Session 5: Interactive Sites with Javascript & JQuery<h2>
+<h3>Objective</h3>
+Begin learning about JS with background on where it came from and where it's headed. 
+<h3>In-Class Materials</h3>
+(COMING SOON) 
+<br> We'll spend part of class time working with help available (lab).
+<h3>Post-Class Assignments</h3>
+<ol>
+	<li><strong>Do/Individual: Finish CodeAcademy Tutorial on JQuery</strong>
+<br>WHAT? Finish the intro. <a href="https://www.codecademy.com/en/tracks/jquery" target="blank">tutorial on JQuery</a> from CodeAcademy. 
+<br><br>WHERE? Submit the URL of the page.</li>
+	<li><strong>Do/Individual: Begin CodeAcademy Tutorial on Interactive Sites</strong>
+<br>WHAT? Finish the <a href="https://www.codecademy.com/en/skills/make-an-interactive-website" target="blank">CodeAcademy tutorial on 'Interactive Websites'</a>- up to and including Unit 2. 
+<br><br>WHERE? n/a.</li>
+</ol>
+
+<h2>Session 6: More on Interactive Sites with Javascript & JQuery<h2>
+<h3>Objective</h3>
+Complete practice on CodeAcademy with interactive sites and plan assignments objectives for the next session. 
+<h3>In-Class Materials</h3>
+(COMING SOON) 
+<br> We'll spend part of class time working with help available (lab).
+<h3>Post-Class Assignments</h3>
+<ol>
+	<li><strong>Do/Individual: Finish CodeAcademy Tutorial on Interactive Sites</strong>
+<br>WHAT? Finish the <a href="https://www.codecademy.com/en/skills/make-an-interactive-website" target="blank">CodeAcademy tutorial on 'Interactive Websites'</a>. 
+<br><br>WHERE? Submit the URL of the page.</li>
+	<li><strong>Do/Individual: Plan for Assignment 'Interactive Pages'</strong>
+<br>WHAT? Design your approach to the assignment 'Interactive Pages'. This should include <a href="http://www.alexandercowan.com/best-agile-user-story/" target="blank">user stories</a> and prototypes in Balsamiq. 
+<br><br>WHERE? Place this in Section 3 of your Group Venture Design doc using an H3. Name it '[your initials] Interactive Page Concept'. If this is an update to your existing section, you can just rename it. Add a bookmark in the Google Doc and submit that link.</li>
+</ol>
+
+<h2>Session 7: Creating Interactive Pages<h2>
+<h3>Objective</h3>
+Add interactivity to one of more pages. 
+<h3>In-Class Materials</h3>
+(COMING SOON) 
+<br> We'll spend part of class time working with help available (lab).
+<h3>Post-Class Assignments</h3>
+<ol>
+	<li><strong>Do/Individual: Finish Assignment 'Interactive Pages'</strong>
+<br>WHAT? Create your interactive page. While this is an individual assignment, you will likely need to coordinate as a group. Be sure to add the following set of comments demonstrating your understanding of JQuery and JS concepts: <br>COMING SOON. <br> Be prepared to explain how it delivers (will deliver) on your user stories and prototypes.
+<br><br>WHERE? Submit the URL of the page.</li>
+</ol>
+
+<h2>Session 8: Version Control with Github<h2>
+<h3>Objective</h3>
+Create a working fluency with source control on Github.
+<h3>In-Class Materials</h3>
+(COMING SOON) 
+<br> We'll spend part of class time working with help available (lab).
+<h3>Post-Class Assignments</h3>
+<ol>
+	<li><strong>Do/Individual: Complete Github Assignment</strong>
+<br>WHAT? (COMING SOON)
+<br><br>WHERE? (COMING SOON)</li>
+<li><strong>Do/Individual: Plan for Assignment 'Interactive Pages II'</strong>
+<br>WHAT? Design your approach to the assignment 'Interactive Pages II'. This should include <a href="http://www.alexandercowan.com/best-agile-user-story/" target="blank">user stories</a> and prototypes in Balsamiq and be an enhancement to your existing work. 
+<br><br>WHERE? Place this in Section 3 of your Group Venture Design doc using an H3. Name it '[your initials] Interactive Page Concept II'. If this is an update to your existing section, you can just rename it. Add a bookmark in the Google Doc and submit that link.</li>
+</ol>
+
+<h2>Session 9: Programming in Javascript I<h2>
+<h3>Objective</h3>
+Create a working fluency with HTML+CSS+JS.
+<h3>In-Class Materials</h3>
+(COMING SOON) 
+<br> We'll spend part of class time working with help available (lab).
+<h3>Post-Class Assignments</h3>
+<ol>
+	<li><strong>Do/Individual: Work Assignment 'Interactive Pages II'</strong>
+<br>WHAT? Create your next interactive page. While this is an individual assignment, you will likely need to coordinate as a group. Be sure to add the following a comment explaining what you did: '[your initials] Interactive Page Concept II'<br> Be prepared to explain how it delivers (will deliver) on your user stories and prototypes.
+<br><br>WHERE? Submit the URL of the page.</li>
+	<li><strong>Do/Individual: Work CodeAcademy Tutorial on Javacript</strong>
+<br>WHAT? By the next session you'll need to be up to the module ''FOR' LOOPS IN JAVASCRIPT' in the  <a href="https://www.codecademy.com/en/tracks/javascript" target="blank">CodeAcademy tutorial on Javascript</a>. 
+<br><br>WHERE? Submit a screenshot of the completion page.</li>
+</ol>
+
+<h2>Session 10: Programming in Javascript II<h2>
+<h3>Objective</h3>
+Create a working fluency with HTML+CSS+JS.
+<h3>In-Class Materials</h3>
+(COMING SOON) 
+<br> We'll spend part of class time working with help available (lab).
+<h3>Post-Class Assignments</h3>
+<ol>
+	<li><strong>Do/Individual: Complete Assignment 'Interactive Pages II'</strong>
+<br>WHAT? Create your next interactive page. While this is an individual assignment, you will likely need to coordinate as a group. Be sure to add the following a comment explaining what you did: '[your initials] Interactive Page Concept II'<br> Be prepared to explain how it delivers (will deliver) on your user stories and prototypes.
+<br><br>WHERE? Submit the URL of the page.</li>
+	<li><strong>Do/Individual: Work CodeAcademy Tutorial on Javacript</strong>
+<br>WHAT? By this session you'll need to be up to the module ''FOR' LOOPS IN JAVASCRIPT' in the  <a href="https://www.codecademy.com/en/tracks/javascript" target="blank">CodeAcademy tutorial on Javascript</a>. 
+<br><br>WHERE? Submit a screenshot of the completion page.</li>
 </ol>
