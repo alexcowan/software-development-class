@@ -21,7 +21,7 @@ Introduce the class objectives and infrastructure. Start on HTML & CSS.
 	<li><strong>Do/Individual: Pick a Project & (Optional) Team</strong>
 <br>WHAT? Pick a project and make sure you have at least:
 <br>- <a href="http://www.alexandercowan.com/best-agile-user-story/" target="blank">User Stories</a> (epics and detail with child stories)
-<br>- Prototype to articulate your user stories (<a href="http://www.alexandercowan.com/build-your-first-prototype-in-30-minutes/" target="blank">Tutorial</a> 
+<br>- Prototype to articulate your user stories (<a href="http://www.alexandercowan.com/build-your-first-prototype-in-30-minutes/" target="blank">Tutorial</a>) 
 <br>Being prepared with these items is important because one of the class' core objectives is learning to focus your work with stories. It's also important to have a pretty specific execution because when you're confronted with all the hooks and dials available to you, it helps to have a pre-existing idea of what you want to have happen.
 <br><br>
 WHERE? Using the <a href="https://docs.google.com/document/d/1M7UGO-XymKBNfFvqIjeWdABO7z1f4JOaje_VjCOi4ss/edit" target="_blank">Venture Design template</a>.</li>
