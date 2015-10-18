@@ -194,7 +194,7 @@ Create a working fluency with HTML+CSS+JS.
 <br><br>WHERE? Submit a screenshot of the completion page.</li>
 </ol>
 
-<h2>Session 12: Programming in Javascript III<h2>
+<h2>Session 12: Programming in Javascript IV<h2>
 <h3>Objective</h3>
 Create a working fluency with HTML+CSS+JS.
 <h3>In-Class Materials</h3>
@@ -213,7 +213,7 @@ Create a working fluency with HTML+CSS+JS.
 <br><br>WHERE? Place this in Section 3 of your Group Venture Design doc using an H3. Name it '[your initials] Interactive Page Concept III'. If this is an update to your existing section, you can just rename it. Add a bookmark in the Google Doc and submit that link.</li>
 </ol>
 
-<h2>Session 13: Programming in Javascript IV<h2>
+<h2>Session 13: Programming in Javascript V<h2>
 <h3>Objective</h3>
 Create a working fluency with HTML+CSS+JS.
 <h3>In-Class Materials</h3>
@@ -229,7 +229,7 @@ Create a working fluency with HTML+CSS+JS.
 <br><br>WHERE? Submit a screenshot of the completion page.</li>
 </ol>
 
-<h2>Session 14: Programming in Javascript III<h2>
+<h2>Session 14: Programming in Javascript VI<h2>
 <h3>Objective</h3>
 Create a working fluency with HTML+CSS+JS.
 <h3>In-Class Materials</h3>
