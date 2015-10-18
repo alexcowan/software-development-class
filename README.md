@@ -13,7 +13,7 @@ After completing this course, students will be able to:
 
 The material that follows is organized around 'sessions'. When I teach the class, there are 2 each week.
 
-<h2>Session 1: Kickoff & Intro to HTML/CSS<h2>
+<h2>Session 1: Kickoff & Intro to HTML+CSS<h2>
 <h3>Objective</h3>
 Introduce the class objectives and infrastructure. Start on HTML & CSS. 
 <h3>Pre-Class Assignments</h3>
@@ -36,7 +36,7 @@ WHERE? Using the <a href="https://docs.google.com/document/d/1M7UGO-XymKBNfFvq
 <br><br>WHERE? Submit the completion screen.</li>
 </ol>
 
-<h2>Session 2: More on HTML/CSS & Design #1<h2>
+<h2>Session 2: More on HTML+CSS & Design #1<h2>
 <h3>Objective</h3>
 Continue on HTML & CSS and prepare for student projects applying those new skills. 
 <h3>In-Class Materials</h3>
