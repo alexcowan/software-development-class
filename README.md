@@ -6,7 +6,7 @@ This is a short intro. class on design-driven software development. It's (very) 
 
 After completing this course, students will be able to:
 - Build functioning web applications using HTML, CSS, and Javascript 
-- Focus coding tasks with user stories and prototypes 
+- Focus coding tasks on valuable outcomes user stories and prototypes 
 - Evaluate alternative approaches to software implementations
 - Participate in a version control process using Git and Github
 - Work through technical issues with analytical debugging techniques
