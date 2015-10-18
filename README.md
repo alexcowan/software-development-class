@@ -202,7 +202,7 @@ Create a working fluency with HTML+CSS+JS.
 <br> We'll spend part of class time working with help available (lab).
 <h3>Post-Class Assignments</h3>
 <ol>
-	<li><strong>Do/Individual: Complete Assignment 'Interactive Pages II'</strong>
+	<li><strong>Do/Individual: Complete Assignment 'Interactive Pages III'</strong>
 <br>WHAT? Create your next interactive page. While this is an individual assignment, you will likely need to coordinate as a group. Be sure to add the following a comment explaining what you did: '[your initials] Interactive Page Concept II'<br> Be prepared to explain how it delivers (will deliver) on your user stories and prototypes.
 <br><br>WHERE? Submit the URL of the page.</li>
 	<li><strong>Do/Individual: Work CodeAcademy Tutorial on Javacript</strong>
