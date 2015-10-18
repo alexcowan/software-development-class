@@ -13,7 +13,7 @@ After completing this course, students will be able to:
 
 The material that follows is organized around 'sessions'. When I teach the class, there are 2 each week.
 
-<h2>Session 1: Kickoff & Intro to HTML/CSS<h3>
+<h2>Session 1: Kickoff & Intro to HTML/CSS<h2>
 <h3>Objective</h3>
 …
 <h3>Pre-Class Assignments</h3>
