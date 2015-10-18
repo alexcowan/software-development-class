@@ -18,7 +18,7 @@ The material that follows is organized around 'sessions'. When I teach the class
 Introduce the class objectives and infrastructure. Start on HTML & CSS. 
 <h3>Pre-Class Assignments</h3>
 <ol>
-	<li><strong>Do/Individual: Pick a Project & (Optional) Team</strong>
+	<li><strong>Do/Individual: Pick a Project & (Optional) Team and Prepare Your Design</strong>
 <br>WHAT? Pick a project and make sure you have at least:
 <br>- <a href="http://www.alexandercowan.com/best-agile-user-story/" target="blank">User Stories</a> (epics and detail with child stories)
 <br>- Prototype to articulate your user stories (<a href="http://www.alexandercowan.com/build-your-first-prototype-in-30-minutes/" target="blank">Tutorial</a>) 
