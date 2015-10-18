@@ -15,7 +15,7 @@ The material that follows is organized around 'sessions'. When I teach the class
 
 <h2>Session 1: Kickoff & Intro to HTML/CSS<h2>
 <h3>Objective</h3>
-…
+Introduce the class objectives and infrastructure. Start on HTML & CSS. 
 <h3>Pre-Class Assignments</h3>
 <ol>
 	<li><strong>Do/Individual: Pick a Project & (Optional) Team</strong>
@@ -33,7 +33,21 @@ We'll be starting the tutorial with part of class time.
 <h3>Post-Class Assignments</h3>
 <ol>
 	<li><strong>CodeAcademy Tutorial on HTML+CSS (~2 hours)</strong>
-<br>WHAT?Complete the <a href="https://www.codecademy.com/en/tracks/web/" target="blank">CodeAcademy tutorial on HTML+CSS</a> up to and including the module 'HTML STRUCTURE: TABLES, DIVS, AND SPANS'
+<br>WHAT? Complete the <a href="https://www.codecademy.com/en/tracks/web/" target="blank">CodeAcademy tutorial on HTML+CSS</a> up to and including the module 'HTML STRUCTURE: TABLES, DIVS, AND SPANS'
 <br><br>WHERE? Submit the completion screen.</li>
 </ol>
 
+<h2>Session 2: Kickoff & Intro to HTML/CSS<h2>
+<h3>Objective</h3>
+Continue on HTML & CSS and prepare for student projects applying those new skills. 
+<h3>In-Class Materials</h3>
+(COMING SOON)
+<h3>Post-Class Assignments</h3>
+<ol>
+	<li><strong>CodeAcademy Tutorial on HTML+CSS (~2 hours)</strong>
+<br>WHAT? Complete the <a href="https://www.codecademy.com/en/tracks/web/" target="blank">CodeAcademy tutorial on HTML+CSS</a> up to and including the module 'CSS CLASSES AND IDS' (all but the last module). 
+<br><br>WHERE? Submit the completion screen.</li>
+	<li><strong>Design a Page (30-90 minutes)</strong>
+<br>WHAT? Define your objectives for the upcoming assignment 'Create a Static Page with HTML+CSS'. This should include <a href="http://www.alexandercowan.com/best-agile-user-story/" target="blank">user stories</a> and prototypes in Balsamiq. 
+<br><br>WHERE? Place this in Section 3 of your Group Venture Design doc using an H3. Name it '[your initials] Static Page Concept'. Add a bookmark in the Google Doc and submit that link.</li>
+</ol>
