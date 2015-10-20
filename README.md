@@ -28,7 +28,6 @@ WHERE? Using the <a href="https://docs.google.com/document/d/1M7UGO-XymKBNfFvq
 </ol>
 <h3>In-Class Materials</h3>
 <a href="https://www.scribd.com/doc/286119678/Software-Development-Class-Session-1" target="_blank">Intro Slides for 'Software Design'</a>
-
 <br> We'll spend part of class time working with help available (lab).
 <h3>Post-Class Assignments</h3>
 <ol>
