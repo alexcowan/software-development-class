@@ -109,7 +109,7 @@ Complete practice on CodeAcademy with interactive sites and plan assignments obj
 	<li><strong>Do/Individual: Finish CodeAcademy Tutorial on Interactive Sites</strong>
 <br>WHAT? Finish the <a href="https://www.codecademy.com/en/skills/make-an-interactive-website" target="blank">CodeAcademy tutorial on 'Interactive Websites'</a>. 
 <br><br>WHERE? Submit the URL of the page.</li>
-	<li><strong>Do/Individual: Plan for Assignment 'Interactive Pages'</strong>
+	<li><strong>Do/Individual: Design for Assignment 'Interactive Pages'</strong>
 <br>WHAT? Design your approach to the assignment 'Interactive Pages'. This should include <a href="http://www.alexandercowan.com/best-agile-user-story/" target="blank">user stories</a> and prototypes in Balsamiq. 
 <br><br>WHERE? Place this in Section 3 of your Group Venture Design doc using an H3. Name it '[your initials] Interactive Page Concept'. If this is an update to your existing section, you can just rename it. Add a bookmark in the Google Doc and submit that link.</li>
 </ol>
@@ -138,7 +138,7 @@ Create a working fluency with source control on Github.
 	<li><strong>Do/Individual: Complete Github Assignment</strong>
 <br>WHAT? (COMING SOON)
 <br><br>WHERE? (COMING SOON)</li>
-<li><strong>Do/Individual: Plan for Assignment 'Interactive Pages II'</strong>
+<li><strong>Do/Individual: Design for Assignment 'Interactive Pages II'</strong>
 <br>WHAT? Design your approach to the assignment 'Interactive Pages II'. This should include <a href="http://www.alexandercowan.com/best-agile-user-story/" target="blank">user stories</a> and prototypes in Balsamiq and be an enhancement to your existing work. 
 <br><br>WHERE? Place this in Section 3 of your Group Venture Design doc using an H3. Name it '[your initials] Interactive Page Concept II'. If this is an update to your existing section, you can just rename it. Add a bookmark in the Google Doc and submit that link.</li>
 </ol>
@@ -173,7 +173,7 @@ Create a working fluency with HTML+CSS+JS.
 	<li><strong>Do/Individual: Work CodeAcademy Tutorial on Javacript</strong>
 <br>WHAT? By this session you'll need to be up to the module ''FOR' LOOPS IN JAVASCRIPT' in the  <a href="https://www.codecademy.com/en/tracks/javascript" target="blank">CodeAcademy tutorial on Javascript</a>. 
 <br><br>WHERE? Submit a screenshot of the completion page.</li>
-<li><strong>Do/Individual: Plan for Assignment 'Interactive Pages III'</strong>
+<li><strong>Do/Individual: Design for Assignment 'Interactive Pages III'</strong>
 <br>WHAT? Design your approach to the assignment 'Interactive Pages III'. This should include <a href="http://www.alexandercowan.com/best-agile-user-story/" target="blank">user stories</a> and prototypes in Balsamiq and be an enhancement to your existing work. 
 <br><br>WHERE? Place this in Section 3 of your Group Venture Design doc using an H3. Name it '[your initials] Interactive Page Concept III'. If this is an update to your existing section, you can just rename it. Add a bookmark in the Google Doc and submit that link.</li>
 </ol>
@@ -208,7 +208,7 @@ Create a working fluency with HTML+CSS+JS.
 	<li><strong>Do/Individual: Work CodeAcademy Tutorial on Javacript</strong>
 <br>WHAT? By this session you'll need to be up to the module ''FOR' LOOPS IN JAVASCRIPT' in the  <a href="https://www.codecademy.com/en/tracks/javascript" target="blank">CodeAcademy tutorial on Javascript</a>. 
 <br><br>WHERE? Submit a screenshot of the completion page.</li>
-<li><strong>Do/Individual: Plan for Assignment 'Interactive Pages IV'</strong>
+<li><strong>Do/Individual: Design for Assignment 'Interactive Pages IV'</strong>
 <br>WHAT? Design your approach to the assignment 'Interactive Pages IV'. This should include <a href="http://www.alexandercowan.com/best-agile-user-story/" target="blank">user stories</a> and prototypes in Balsamiq and be an enhancement to your existing work. 
 <br><br>WHERE? Place this in Section 3 of your Group Venture Design doc using an H3. Name it '[your initials] Interactive Page Concept III'. If this is an update to your existing section, you can just rename it. Add a bookmark in the Google Doc and submit that link.</li>
 </ol>
