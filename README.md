@@ -13,6 +13,15 @@ After completing this course, students will be able to:
 
 The material that follows is organized around 'sessions'. When I teach the class, there are 2 each week.
 
+<h2>Where Things Are</h2>
+You	  | It 
+------------- | ------------- 
+I want a current, comprehensive overview of the class so I know what's happening in class and what assignments are coming. | You're in the right place- this page is the place.
+I want to turn in an assignment so it's recorded as on time and complete and can be reviewed and graded. | Canvas is the place (Darden).
+I want to complete the various coding tutorials so I can advance my skills and record the tasks as complete. | <a href="https://www.codecademy.com" target="blank">CodeAcademy</a> is the place- there are links to the specific lessons below.
+I want to set up and manage my WordPress instance so I can [start building things, create a restore point, restore to a restore point]. | <a href="https://wpengine.com/" target="blank">WP Engine</a> is the place. If you're a team lead, create an account. If you're on a team, your team lead will send you a login.
+I want to add, modify, code on my site so I can implement my user stories and wireframes. | For this go to the admin page on your WordPress instance, which will be [your site]/wp-admin. 
+
 <h2>Session 1: Kickoff & Intro to HTML+CSS<h2>
 <h3>Objective</h3>
 Introduce the class objectives and infrastructure. Start on HTML & CSS. 
