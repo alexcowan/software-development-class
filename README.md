@@ -72,7 +72,7 @@ Finish HTML & CSS, set up a team workspace on WP Engine for Wordpress and begin 
 	<li><strong>Do/Individual: Finish CodeAcademy Tutorial on HTML+CSS</strong>
 <br>WHAT? Complete the <a href="https://www.codecademy.com/en/tracks/web/" target="blank">CodeAcademy tutorial on HTML+CSS</a>. 
 <br><br>WHERE? Submit the completion screen.</li>
-	<li><strong>Do/Group: Set up Accout & Users on WP Engine</strong>
+	<li><strong>Do/Group: Set up Account & Users on WP Engine</strong>
 <br>WHAT? Sign up for a team account on <a href="http://wpengine.com/" target="blank">WP Engine</a> and make sure everyone in the group and the teaching team has a user account. See the following tutorial on notes for set up: (COMING SOON). It is highly advisable to select a theme and primary navigation scheme at this point- it will make it much easier to manage your individual work. 
 <br><br>WHERE? There is no need to submit this assignment.</li>
 	<li><strong>Do/Individual: Begin Your Static Page</strong>
