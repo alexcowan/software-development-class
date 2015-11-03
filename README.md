@@ -22,6 +22,7 @@ I want to complete the various coding tutorials so I can advance my skills and r
 I want to set up and manage my WordPress instance so I can [start building things, create a restore point, restore to a restore point]. | <a href="https://wpengine.com/" target="blank">WP Engine</a> is the place. If you're a team lead, create an account. If you're on a team, your team lead will send you a login.
 I want to add, modify, code on my site so I can implement my user stories and wireframes. | For this go to the admin page on your WordPress instance, which will be [your site]/wp-admin. 
 I want to notes on setting up WP Engine and Wordpress so I don't have to figure out everything from scratch. | Please see our handy WP Engine/WP Guide: <a href="https://docs.google.com/document/d/1DCRWmGeS8DNBBCql90xIQIkqEQuuwOCgBrbG8cgNI0A/" target="blank">WP Engine & WordPress Notes for Software Development Class</a>
+I want to post a question on Piazza so I can get help from my peers and the teaching team. | Please see our handy WP Engine/WP Guide: <a href="https://piazza.com/class/if6595ccwgg25e/" target="blank">Piazza Site for GBUS 8633</a>
 
 <h2>Session 1: Kickoff & Intro to HTML+CSS<h2>
 <h3>Objective</h3>
