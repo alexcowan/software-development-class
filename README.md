@@ -101,12 +101,9 @@ Begin learning about JS with background on where it came from and where it's hea
 <br> We'll spend part of class time working with help available (lab).
 <h3>Post-Class Assignments</h3>
 <ol>
-	<li><strong>Do/Individual: Finish CodeAcademy Tutorial on JQuery</strong>
-<br>WHAT? Finish the intro. <a href="https://www.codecademy.com/en/tracks/jquery" target="blank">tutorial on JQuery</a> from CodeAcademy. 
+	<li><strong>Do/Individual: Finish CodeAcademy Tutorial on JQuery Up to Unit 5</strong>
+<br>WHAT? Finish the intro. <a href="https://www.codecademy.com/en/tracks/jquery" target="blank">tutorial on JQuery</a> from CodeAcademy. Stop at Unit 5.
 <br><br>WHERE? Submit the URL of the page.</li>
-	<li><strong>Do/Individual: Begin CodeAcademy Tutorial on Interactive Sites</strong>
-<br>WHAT? Finish the <a href="https://www.codecademy.com/en/skills/make-an-interactive-website" target="blank">CodeAcademy tutorial on 'Interactive Websites'</a>- up to and including Unit 2. 
-<br><br>WHERE? n/a.</li>
 </ol>
 
 <h2>Session 6: More on Interactive Sites with Javascript & JQuery<h2>
