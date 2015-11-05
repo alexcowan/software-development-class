@@ -114,8 +114,8 @@ Complete practice on CodeAcademy with interactive sites and plan assignments obj
 <br> We'll spend part of class time working with help available (lab).
 <h3>Post-Class Assignments</h3>
 <ol>
-	<li><strong>Do/Individual: Finish CodeAcademy Tutorial on Interactive Sites</strong>
-<br>WHAT? Finish the <a href="https://www.codecademy.com/en/skills/make-an-interactive-website" target="blank">CodeAcademy tutorial on 'Interactive Websites'</a>. 
+	<li><strong>Do/Individual: Finish CodeAcademy Tutorial on Interactive Sites- to Unit 3</strong>
+<br>WHAT? Finish the <a href="https://www.codecademy.com/en/skills/make-an-interactive-website" target="blank">CodeAcademy tutorial on 'Interactive Websites'</a> up to Unit 3.
 <br><br>WHERE? Submit the URL of the page.</li>
 	<li><strong>Do/Individual: Design for Assignment 'Interactive Pages'</strong>
 <br>WHAT? Design your approach to the assignment 'Interactive Pages'. This should include <a href="http://www.alexandercowan.com/best-agile-user-story/" target="blank">user stories</a> and prototypes in Balsamiq. 
