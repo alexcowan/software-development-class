@@ -139,13 +139,15 @@ Add interactivity to one of more pages.
 <h3>Objective</h3>
 Create a working fluency with source control on Github.
 <h3>In-Class Materials</h3>
-(COMING SOON) 
+(see below)
 <br> We'll spend part of class time working with help available (lab).
 <h3>Post-Class Assignments</h3>
 <ol>
+
+
 	<li><strong>Do/Individual: Complete Github Assignment</strong>
-<br>WHAT? (COMING SOON)
-<br><br>WHERE? (COMING SOON)</li>
+<br>WHAT? Read the <a href="https://docs.google.com/document/d/1epEBaIUYKkW9iGWxDv2xlYKLK1XJLu5KekOnB5neqO0/edit?usp=sharing" target="blank">GitHub Tutorial</a> and then use <a href="https://docs.google.com/document/d/1dqO2WhmhjqqZv9_SMK9ly4J5EEPXoW3oJlvYoIAC3CQ/edit?usp=sharing" target="blank">Git - Installation & Setup guide</a> to get Git running on your laptop. The GitHub Tutorial contains an assignment for you to complete as you go through the tutorial. Instructions for the assignment are detailed in the Tutorial. 
+<br><br>WHERE? Submit a link of your completed assignment using this <a href="https://docs.google.com/document/d/1XWnHIt1kPd9KLFe-Ld7HSeKjXIvJSAddO8KV4AHBr9g/edit?usp=sharing" target="blank">GitHub_YOURINITIALS</a>  as an example to Canvas.</li>
 <li><strong>Do/Individual: Design for Assignment 'Interactive Pages II'</strong>
 <br>WHAT? Design your approach to the assignment 'Interactive Pages II'. This should include <a href="http://www.alexandercowan.com/best-agile-user-story/" target="blank">user stories</a> and prototypes in Balsamiq and be an enhancement to your existing work. 
 <br><br>WHERE? Place this in Section 3 of your Group Venture Design doc using an H3. Name it '[your initials] Interactive Page Concept II'. If this is an update to your existing section, you can just rename it. Add a bookmark in the Google Doc and submit that link.</li>
