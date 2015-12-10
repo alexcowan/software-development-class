@@ -249,7 +249,7 @@ Create a working fluency with HTML+CSS+JS.
 <h3>Post-Class Assignments</h3>
 <ol>
 	<li><strong>Do/Individual: Complete Assignment 'Interactive Pages IV'</strong>
-<br>WHAT? WHAT? Finalize your next interactive page. While this is an individual assignment, you will likely need to coordinate as a group. Please submit using the final assignment template:
+<br>WHAT? Finalize your next interactive page. While this is an individual assignment, you will likely need to coordinate as a group. Please submit using the final assignment template:
 https://docs.google.com/document/d/1QHlTQLEZgIKnZnIlNIgHVTy8-K6gXLdxbtN6pCtogPg/edit# 
 Please be sure to share that to acowan@alexandercowan.com and to submit the URL on this assignment.
 
