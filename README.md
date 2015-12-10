@@ -249,8 +249,10 @@ Create a working fluency with HTML+CSS+JS.
 <h3>Post-Class Assignments</h3>
 <ol>
 	<li><strong>Do/Individual: Complete Assignment 'Interactive Pages IV'</strong>
-<br>WHAT? Create your next interactive page. While this is an individual assignment, you will likely need to coordinate as a group. Be sure to add the following a comment explaining what you did: '[your initials] Interactive Page Concept II'<br> Be prepared to explain how it delivers (will deliver) on your user stories and prototypes.
-<br><br>WHERE? Submit the URL of the page.</li>
+<br>WHAT? WHAT? Finalize your next interactive page. While this is an individual assignment, you will likely need to coordinate as a group. Please submit using the final assignment template:
+https://docs.google.com/document/d/1QHlTQLEZgIKnZnIlNIgHVTy8-K6gXLdxbtN6pCtogPg/edit# 
+Please be sure to share that to acowan@alexandercowan.com and to submit the URL on this assignment.
+
 	<li><strong>Do/Individual: Complete CodeAcademy Tutorial on Javacript</strong>
 <br>WHAT? By this session you'll need to completethe  <a href="https://www.codecademy.com/en/tracks/javascript" target="blank">CodeAcademy tutorial on Javascript</a>. 
 <br><br>WHERE? Submit a screenshot of the completion page.</li>
