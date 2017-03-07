@@ -39,7 +39,7 @@ Introduce the class objectives and infrastructure. Start on HTML & CSS.
 WHERE? Using the <a href="https://docs.google.com/document/d/1M7UGO-XymKBNfFvqIjeWdABO7z1f4JOaje_VjCOi4ss/edit" target="_blank">Venture Design template</a>.</li>
 </ol>
 <h3>In-Class Materials</h3>
-<a href="https://www.scribd.com/doc/286119678/Software-Development-Class-Session-1" target="_blank">Intro Slides for 'Software Design'</a>
+<a href="https://www.scribd.com/doc/286119678/Software-Development-Class-Session-1" target="_blank">Intro Slides for 'Software Development'</a>
 <br> We'll spend part of class time working with help available (lab).
 <h3>Post-Class Assignments</h3>
 <ol>
