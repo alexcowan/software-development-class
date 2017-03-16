@@ -14,11 +14,10 @@ After completing this course, students will be able to:
 The material that follows is organized around 'sessions'. When I teach the class, there are 2 each week.
 
 <h2>Where Things Are</h2>
-You	  | It 
+First Header | Second Header
 ------------ | -------------
-I want a current, comprehensive overview of the class so I know what's happening in class and what assignments are coming. | You're in the right place- this page is the place.
-I want to turn in an assignment so it's recorded as on time and complete and can be reviewed and graded. | Canvas is the place (Darden).
-
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 
 <h2>Session 1: Kickoff & Intro to HTML+CSS<h2>
 <h3>Objective</h3>
