@@ -15,15 +15,10 @@ The material that follows is organized around 'sessions'. When I teach the class
 
 <h2>Where Things Are</h2>
 You	  | It 
-------------- | ------------- 
+------------ | -------------
 I want a current, comprehensive overview of the class so I know what's happening in class and what assignments are coming. | You're in the right place- this page is the place.
 I want to turn in an assignment so it's recorded as on time and complete and can be reviewed and graded. | Canvas is the place (Darden).
-I want to complete the various coding tutorials so I can advance my skills and record the tasks as complete. | <a href="https://www.codecademy.com" target="blank">CodeAcademy</a> is the place- there are links to the specific lessons below.
-I want to set up and manage my WordPress instance so I can [start building things, create a restore point, restore to a restore point]. | <a href="https://wpengine.com/" target="blank">WP Engine</a> is the place. If you're a team lead, create an account. If you're on a team, your team lead will send you a login.
-I want to add, modify, code on my site so I can implement my user stories and wireframes. | For this go to the admin page on your WordPress instance, which will be [your site]/wp-admin. 
-I want to notes on setting up WP Engine and Wordpress so I don't have to figure out everything from scratch. | Please see our handy WP Engine/WP Guide: <a href="https://docs.google.com/document/d/1DCRWmGeS8DNBBCql90xIQIkqEQuuwOCgBrbG8cgNI0A/" target="blank">WP Engine & WordPress Notes for Software Development Class</a>
-I want to post a question on Piazza so I can get help from my peers and the teaching team. | Please see our handy WP Engine/WP Guide: <a href="https://piazza.com/class/if6595ccwgg25e/" target="blank">Piazza Site for GBUS 8633</a>
-I want to review the Model View Controller (MVC) framework, so I have a generalized framework for thinking through software composition and structure. | Please see our handy tutorial: <a href="http://www.alexandercowan.com/mvc-model-view-controller-overview/" target="blank">Model View Controller Tutorial</a>
+
 
 <h2>Session 1: Kickoff & Intro to HTML+CSS<h2>
 <h3>Objective</h3>
