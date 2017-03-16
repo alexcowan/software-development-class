@@ -14,10 +14,10 @@ After completing this course, students will be able to:
 The material that follows is organized around 'sessions'. When I teach the class, there are 2 each week.
 
 <h2>Where Things Are</h2>
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 <h2>Session 1: Kickoff & Intro to HTML+CSS<h2>
 <h3>Objective</h3>
