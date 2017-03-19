@@ -173,7 +173,7 @@ Continue work on JS and individual projects.
 <br> We'll spend part of class time working with help available (lab).
 <h3>Post-Class Assignments</h3>
 <ol>
-	<li><strong>Do/Individual: Work Codecademy Course on JS<strong>
+	<li><strong>Do/Individual: Work Codecademy Course on JS</strong>
 <br>Complete the following from the <a href="https://www.codecademy.com/learn/learn-javascript" target="blank">CodeAcademy Course 'Javascript'</a>:
 <br>Introduction to JavaScript<br>
 Control flow
@@ -182,42 +182,42 @@ Control flow
 	<li><strong>Do/Individual: Design for Assignment 'Interactive Pages'</strong>
 <br>WHAT? Design your approach to the assignment 'Interactive Pages'. This should include <a href="http://www.alexandercowan.com/best-agile-user-story/" target="blank">user stories</a> and prototypes in Balsamiq. 
 <br><br>WHERE? Place this in Section 3 of your Group Venture Design doc using an H3. Name it '[your initials] Interactive Page Concept'. If this is an update to your existing section, you can just rename it. Add a bookmark in the Google Doc and submit that link.</li>
+	<li><strong>Do/Group: Determine your focus for the Final Project</strong>
+<br>WHAT? This should include a set of user stories and implementation notes.  
+<br><br>WHERE? Have a general description ready which we'll discuss informally in class.</li>
 </ol>
 
 <h2>Session 7: Creating Interactive Pages<h2>
 <h3>Objective</h3>
-Add interactivity to one of more pages. 
+Continue work on JS and individual projects.
 <h3>In-Class Materials</h3>
-(COMING SOON) 
 <br> We'll spend part of class time working with help available (lab).
 <h3>Post-Class Assignments</h3>
 <ol>
 	<li><strong>Do/Individual: Finish Assignment 'Interactive Pages'</strong>
-<br>WHAT? Create your interactive page. While this is an individual assignment, you will likely need to coordinate as a group. Be sure to add the following set of comments demonstrating your understanding of JQuery and JS concepts: <br>COMING SOON. <br> Be prepared to explain how it delivers (will deliver) on your user stories and prototypes.
+<br>WHAT? Create your interactive page. While this is an individual assignment, you will likely need to coordinate as a group. Be sure to add the following set of comments demonstrating your understanding of JQuery and JS concepts. <br> Be prepared to explain how it delivers (will deliver) on your user stories and prototypes.
 <br><br>WHERE? Submit the URL of the page.</li>
+<li><strong>Do/Individual: Work Codecademy Course on JS</strong>
+<br>Complete the following from the <a href="https://www.codecademy.com/learn/learn-javascript" target="blank">CodeAcademy Course 'Javascript'</a>:
+<br>Functions and Scope
 </ol>
 
 <h2>Session 8: Creating Interactive Pages II<h2>
 <h3>Objective</h3>
-Create a working fluency with source control on Github.
+Continue work on JS and individual projects.
 <h3>In-Class Materials</h3>
 (see below)
 <br> We'll spend part of class time working with help available (lab).
 <h3>Post-Class Assignments</h3>
 <ol>
-
-
-	<li><strong>Do/Individual: Complete Github Assignment</strong>
-<br>WHAT? Read the <a href="https://docs.google.com/document/d/1epEBaIUYKkW9iGWxDv2xlYKLK1XJLu5KekOnB5neqO0/edit?usp=sharing" target="blank">GitHub Tutorial</a> and then use <a href="https://docs.google.com/document/d/1dqO2WhmhjqqZv9_SMK9ly4J5EEPXoW3oJlvYoIAC3CQ/edit?usp=sharing" target="blank">Git - Installation & Setup guide</a> to get Git running on your laptop. The GitHub Tutorial contains an assignment for you to complete as you go through the tutorial. Instructions for the assignment are detailed in the Tutorial. 
-<br><br>WHERE? Submit a link of your completed assignment using this <a href="https://docs.google.com/document/d/1XWnHIt1kPd9KLFe-Ld7HSeKjXIvJSAddO8KV4AHBr9g/edit?usp=sharing" target="blank">GitHub_YOURINITIALS</a>  as an example to Canvas.</li>
-<li><strong>Do/Individual: Design for Assignment 'Interactive Pages II'</strong>
-<br>WHAT? Design your approach to the assignment 'Interactive Pages II'. This should include <a href="http://www.alexandercowan.com/best-agile-user-story/" target="blank">user stories</a> and prototypes in Balsamiq and be an enhancement to your existing work. 
-<br><br>WHERE? Place this in Section 3 of your Group Venture Design doc using an H3. Name it '[your initials] Interactive Page Concept II'. If this is an update to your existing section, you can just rename it. Add a bookmark in the Google Doc and submit that link.</li>
+	<li><strong>Do/Group: Finalize Design for Your Final</strong>
+<br>WHAT? This should include a set of user stories, wireframes, and tasks for individuals.  
+<br><br>WHERE? Have a general description ready which we'll discuss in class.</li>
 </ol>
 
 <h2>Session 9: Final Project Design<h2>
 <h3>Objective</h3>
-Create a working fluency with HTML+CSS+JS.
+Continue work on JS and individual projects.
 <h3>In-Class Materials</h3>
 (COMING SOON) 
 <br> We'll spend part of class time working with help available (lab).
@@ -233,7 +233,7 @@ Create a working fluency with HTML+CSS+JS.
 
 <h2>Session 10: Coding Project I<h2>
 <h3>Objective</h3>
-Create a working fluency with HTML+CSS+JS.
+Continue work on JS and individual projects.
 <h3>In-Class Materials</h3>
 (COMING SOON) 
 <br> We'll spend part of class time working with help available (lab).
@@ -252,7 +252,7 @@ Create a working fluency with HTML+CSS+JS.
 
 <h2>Session 11: Coding Project II<h2>
 <h3>Objective</h3>
-Create a working fluency with HTML+CSS+JS.
+Continue work on JS and individual projects.
 <h3>In-Class Materials</h3>
 (COMING SOON) 
 <br> We'll spend part of class time working with help available (lab).
@@ -268,7 +268,7 @@ Create a working fluency with HTML+CSS+JS.
 
 <h2>Session 12: Coding Project III<h2>
 <h3>Objective</h3>
-Create a working fluency with HTML+CSS+JS.
+Continue work on JS and individual projects.
 <h3>In-Class Materials</h3>
 (COMING SOON) 
 <br> We'll spend part of class time working with help available (lab).
