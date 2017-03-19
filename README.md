@@ -121,8 +121,9 @@ Finish HTML & CSS, set up a team workspace on WP Engine for Wordpress and begin 
 <br> We'll spend part of class time working with help available (lab).
 <h3>Post-Class Assignments</h3>
 <ol>
-	<li><strong>Do/Individual: Finish CodeAcademy Tutorial on HTML+CSS</strong>
-<br>WHAT? Complete the <a href="https://www.codecademy.com/en/tracks/web/" target="blank">CodeAcademy tutorial on HTML+CSS</a>. 
+	<li><strong>Do/Individual: CodeAcademy Tutorial on HTML+CSS</strong>
+<br>WHAT? Complete the <a href="https://www.codecademy.com/learn/learn-html-css" target="blank">CodeAcademy Course 'Learn HTML & CSS: Part I'</a> up to and including the module 'Organizing HTML & CSS'. 
+</a>. 
 <br><br>WHERE? Submit the completion screen.</li>
 	<li><strong>Do/Group: Set up Account & Users on WP Engine</strong>
 <br>WHAT? Sign up for a team account on <a href="http://wpengine.com/" target="blank">WP Engine</a> and make sure everyone in the group and the teaching team has a user account. See the following tutorial on notes for set up: (COMING SOON). It is highly advisable to select a theme and primary navigation scheme at this point- it will make it much easier to manage your individual work. 
@@ -146,6 +147,10 @@ Creating Elements in HTML<br>
 Styling them with External CSS <br> 
 Be prepared to explain how it delivers (will deliver) on your user stories and prototypes.
 <br><br>WHERE? Submit the URL of the page.</li>
+<li><strong>Do/Individual: CodeAcademy Tutorial on HTML+CSS</strong>
+<br>WHAT? Complete the <a href="https://www.codecademy.com/learn/learn-html-css" target="blank">CodeAcademy Course 'Learn HTML & CSS: Part I'</a> up to and including the module 'HTML Tables'. 
+</a>. 
+<br><br>WHERE? Submit the completion screen.</li>
 </ol>
 
 <h2>Session 5: Interactive Sites with Javascript & JQuery<h2>
