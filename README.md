@@ -113,7 +113,7 @@ Continue on HTML & CSS and prepare for student projects applying those new skill
 <br>WHAT? Define your objectives for the upcoming assignment 'Create a Static Page with HTML+CSS'. This should include <a href="http://www.alexandercowan.com/best-agile-user-story/" target="blank">user stories</a> and prototypes in Balsamiq. 
 <br><br>WHERE? Place this in Section 3 of your Group Venture Design doc using an H3. Name it '[your initials] Static Page Concept'. Add a bookmark in the Google Doc and submit that link.</li>
 </ol>
-<h2>Session 3: Finish HTML+CSS, Set up Wordpress, Start Developing<h2>
+<h2>Session 3: Your First Page<h2>
 <h3>Objective</h3>
 Finish HTML & CSS, set up a team workspace on WP Engine for Wordpress and begin individual page executions. 
 <h3>In-Class Materials</h3>
@@ -132,7 +132,7 @@ Finish HTML & CSS, set up a team workspace on WP Engine for Wordpress and begin 
 <br>WHAT? Begin to create your static page. While this is an individual assignment, you will likely need to coordinate as a group. Be sure to add the following set of comments demonstrating your understanding of the individual HTML+CSS concepts: <br>COMING SOON. 
 <br><br>WHERE? This isn't due until the next session, but if you're done, submit the URL of the page.</li>
 </ol>
-<h2>Session 4: Finish Your Static Page<h2>
+<h2>Session 4: Controlling Page Style with CSS<h2>
 <h3>Objective</h3>
 Drive to completion of the static page concept. 
 <h3>In-Class Materials</h3>
@@ -195,7 +195,7 @@ Add interactivity to one of more pages.
 <br><br>WHERE? Submit the URL of the page.</li>
 </ol>
 
-<h2>Session 8: Version Control with Github<h2>
+<h2>Session 8: Creating Interactive Pages II<h2>
 <h3>Objective</h3>
 Create a working fluency with source control on Github.
 <h3>In-Class Materials</h3>
@@ -213,7 +213,7 @@ Create a working fluency with source control on Github.
 <br><br>WHERE? Place this in Section 3 of your Group Venture Design doc using an H3. Name it '[your initials] Interactive Page Concept II'. If this is an update to your existing section, you can just rename it. Add a bookmark in the Google Doc and submit that link.</li>
 </ol>
 
-<h2>Session 9: Programming in Javascript I<h2>
+<h2>Session 9: Final Project Design<h2>
 <h3>Objective</h3>
 Create a working fluency with HTML+CSS+JS.
 <h3>In-Class Materials</h3>
@@ -229,7 +229,7 @@ Create a working fluency with HTML+CSS+JS.
 <br><br>WHERE? Submit a screenshot of the completion page.</li>
 </ol>
 
-<h2>Session 10: Programming in Javascript II<h2>
+<h2>Session 10: Coding Project I<h2>
 <h3>Objective</h3>
 Create a working fluency with HTML+CSS+JS.
 <h3>In-Class Materials</h3>
@@ -248,7 +248,7 @@ Create a working fluency with HTML+CSS+JS.
 <br><br>WHERE? Place this in Section 3 of your Group Venture Design doc using an H3. Name it '[your initials] Interactive Page Concept III'. If this is an update to your existing section, you can just rename it. Add a bookmark in the Google Doc and submit that link.</li>
 </ol>
 
-<h2>Session 11: Programming in Javascript III<h2>
+<h2>Session 11: Coding Project II<h2>
 <h3>Objective</h3>
 Create a working fluency with HTML+CSS+JS.
 <h3>In-Class Materials</h3>
@@ -264,7 +264,7 @@ Create a working fluency with HTML+CSS+JS.
 <br><br>WHERE? Submit a screenshot of the completion page.</li>
 </ol>
 
-<h2>Session 12: Programming in Javascript IV<h2>
+<h2>Session 12: Coding Project III<h2>
 <h3>Objective</h3>
 Create a working fluency with HTML+CSS+JS.
 <h3>In-Class Materials</h3>
@@ -283,7 +283,7 @@ Create a working fluency with HTML+CSS+JS.
 <br><br>WHERE? Place this in Section 3 of your Group Venture Design doc using an H3. Name it '[your initials] Interactive Page Concept III'. If this is an update to your existing section, you can just rename it. Add a bookmark in the Google Doc and submit that link.</li>
 </ol>
 
-<h2>Session 13: Programming in Javascript V<h2>
+<h2>Session 13: Coding Project IV<h2>
 <h3>Objective</h3>
 Create a working fluency with HTML+CSS+JS.
 <h3>In-Class Materials</h3>
@@ -299,7 +299,7 @@ Create a working fluency with HTML+CSS+JS.
 <br><br>WHERE? Submit a screenshot of the completion page.</li>
 </ol>
 
-<h2>Session 14: Programming in Javascript VI<h2>
+<h2>Session 14: Wrap Up<h2>
 <h3>Objective</h3>
 Create a working fluency with HTML+CSS+JS.
 <h3>In-Class Materials</h3>
