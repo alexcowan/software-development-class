@@ -122,7 +122,7 @@ Finish HTML & CSS, set up a team workspace on WP Engine for Wordpress and begin 
 <h3>Post-Class Assignments</h3>
 <ol>
 	<li><strong>Do/Individual: CodeAcademy Tutorial on HTML+CSS</strong>
-<br>WHAT? Complete the <a href="https://www.codecademy.com/learn/learn-html-css" target="blank">CodeAcademy Course 'Learn HTML & CSS: Part I'</a> up to and including the module 'Organizing HTML & CSS'. 
+<br>WHAT? Complete the <a href="https://www.codecademy.com/learn/learn-html-css" target="blank">CodeAcademy Course 'Learn HTML & CSS: Part I'</a> up to and including the module 'The CSS Box Model'. 
 </a>. 
 <br><br>WHERE? Submit the completion screen.</li>
 	<li><strong>Do/Group: Set up Account & Users on WP Engine</strong>
@@ -136,7 +136,7 @@ Finish HTML & CSS, set up a team workspace on WP Engine for Wordpress and begin 
 <h3>Objective</h3>
 Drive to completion of the static page concept. 
 <h3>In-Class Materials</h3>
-(COMING SOON) 
+
 <br> We'll spend part of class time working with help available (lab).
 <h3>Post-Class Assignments</h3>
 <ol>
