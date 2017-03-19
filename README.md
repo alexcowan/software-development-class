@@ -168,14 +168,16 @@ Begin learning about JS with background on where it came from and where it's hea
 
 <h2>Session 6: More on Interactive Sites with Javascript & JQuery<h2>
 <h3>Objective</h3>
-Complete practice on CodeAcademy with interactive sites and plan assignments objectives for the next session. 
+Continue work on JS and individual projects.
 <h3>In-Class Materials</h3>
 (COMING SOON) 
 <br> We'll spend part of class time working with help available (lab).
 <h3>Post-Class Assignments</h3>
 <ol>
-	<li><strong>Do/Individual: Finish CodeAcademy Tutorial on Interactive Sites- to Unit 3</strong>
-<br>WHAT? Finish the <a href="https://www.codecademy.com/en/skills/make-an-interactive-website" target="blank">CodeAcademy tutorial on 'Interactive Websites'</a> up to Unit 3.
+	<li><strong>Do/Individual: Finish the following modules from the <a href="https://www.codecademy.com/learn/learn-javascript" target="blank">CodeAcademy Course 'Javascript'</a>:
+<br>Introduction to JavaScript<br>
+Control flow
+<br>
 <br><br>WHERE? Submit the URL of the page.</li>
 	<li><strong>Do/Individual: Design for Assignment 'Interactive Pages'</strong>
 <br>WHAT? Design your approach to the assignment 'Interactive Pages'. This should include <a href="http://www.alexandercowan.com/best-agile-user-story/" target="blank">user stories</a> and prototypes in Balsamiq. 
