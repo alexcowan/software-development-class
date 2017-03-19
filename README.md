@@ -170,11 +170,11 @@ Begin learning about JS with background on where it came from and where it's hea
 <h3>Objective</h3>
 Continue work on JS and individual projects.
 <h3>In-Class Materials</h3>
-(COMING SOON) 
 <br> We'll spend part of class time working with help available (lab).
 <h3>Post-Class Assignments</h3>
 <ol>
-	<li><strong>Do/Individual: Finish the following modules from the <a href="https://www.codecademy.com/learn/learn-javascript" target="blank">CodeAcademy Course 'Javascript'</a>:
+	<li><strong>Do/Individual: Work Codecademy Course on JS<strong>
+<br>Complete the following from the <a href="https://www.codecademy.com/learn/learn-javascript" target="blank">CodeAcademy Course 'Javascript'</a>:
 <br>Introduction to JavaScript<br>
 Control flow
 <br>
