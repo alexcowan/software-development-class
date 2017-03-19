@@ -210,11 +210,14 @@ Continue work on JS and individual projects.
 <br> We'll spend part of class time working with help available (lab).
 <h3>Post-Class Assignments</h3>
 <ol>
-	<li><strong>Do/Group: Finalize Design for Your Final</strong>
+	<li><strong>Do/Group: Finalize Design for Your Final Project</strong>
 <br>WHAT? This should include a set of user stories, wireframes, and tasks for individuals.  
 <br><br>WHERE? Have a general description ready which we'll discuss in class.</li>
+<li><strong>Do/Individual: Work Codecademy Course on JS</strong>
+<br>Complete the following from the <a href="https://www.codecademy.com/learn/learn-javascript" target="blank">CodeAcademy Course 'Javascript'</a>:
+<br>Arrays<br>
+Loops
 </ol>
-
 <h2>Session 9: Final Project Design<h2>
 <h3>Objective</h3>
 Continue work on JS and individual projects.
