@@ -94,11 +94,11 @@ WHERE? Using the <a href="https://docs.google.com/document/d/1M7UGO-XymKBNfFvq
 <h3>Post-Class Assignments</h3>
 <ol>
 	<li><strong>Do/Individual: CodeAcademy Tutorial on HTML+CSS</strong>
-<br>WHAT? Complete the <a href="https://www.codecademy.com/en/tracks/web/" target="blank">CodeAcademy tutorial on HTML+CSS</a> up to and including the module 'HTML STRUCTURE: TABLES, DIVS, AND SPANS'
-<br><br>WHERE? Submit the completion screen.</li>
+<br>WHAT? Complete the <a href="https://www.codecademy.com/learn/learn-html-css" target="blank">CodeAcademy Course 'Learn HTML & CSS: Part I'</a> up to and including the module 'CSS Fundamentals'
+<br><br>WHERE? Submit the completion screen for the last module.</li>
 </ol>
 
-<h2>Session 2: More on HTML+CSS & Design #1<h2>
+<h2>Session 2: HTML + CSS<h2>
 <h3>Objective</h3>
 Continue on HTML & CSS and prepare for student projects applying those new skills. 
 <h3>In-Class Materials</h3>
@@ -107,7 +107,7 @@ Continue on HTML & CSS and prepare for student projects applying those new skill
 <h3>Post-Class Assignments</h3>
 <ol>
 	<li><strong>Do/Individual: CodeAcademy Tutorial on HTML+CSS</strong>
-<br>WHAT? Complete the <a href="https://www.codecademy.com/en/tracks/web/" target="blank">CodeAcademy tutorial on HTML+CSS</a> up to and including the module 'Introduction to CSS' (just one module). 
+<br>WHAT? Complete the  <a href="https://www.codecademy.com/learn/learn-html-css" target="blank">CodeAcademy Course 'Learn HTML & CSS: Part I'</a> up to and including the module 'Organizing HTML & CSS'. 
 <br><br>WHERE? Submit the completion screen.</li>
 	<li><strong>Do/Individual: Design a Page (30-90 minutes)</strong>
 <br>WHAT? Define your objectives for the upcoming assignment 'Create a Static Page with HTML+CSS'. This should include <a href="http://www.alexandercowan.com/best-agile-user-story/" target="blank">user stories</a> and prototypes in Balsamiq. 
