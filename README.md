@@ -4,14 +4,42 @@ It's not too late to learn about coding!
 
 This is a short intro. class on design-driven software development. It's (very) roughly 60 hours of content, including class time and assignment time. It's designed for a learner that's comfortable with <a href="http://www.alexandercowan.com/best-agile-user-story/" target="blank">user stories</a> and related techniques on software design that I cover in this class: <a href="http://www.alexandercowan.com/software-design-class/" target="blank">Software Design</a>. That class is not a prerequisite, but if you haven't taken it you may need to budget a little extra time to loop back and cover a few key topics. 
 
-After completing this course, students will be able to:
-- Build functioning web applications using HTML, CSS, and Javascript 
-- Focus coding tasks on valuable outcomes with user stories and prototypes 
-- Evaluate alternative approaches to software implementations
-- Participate in a version control process using Git and Github
-- Work through technical issues with analytical debugging techniques
+<h2>Course Descriptions + Objectives</h2>
+By the end of this class, you will have lost your fear of tinkering (with software). 
 
-The material that follows is organized around 'sessions'. When I teach the class, there are 2 each week.
+As an MBA considering roles like product manager, founder, or consultant, this is important. Between working software developer and knowing zero about coding, there’s a productive middle place. This is a place where you can:
+follow discussions about software development
+engage confidently in meaningful learning about the software/system you’re managing
+create front-end prototypes
+
+By the end of this class, you will be able to: 
+Take user stories & prototype and translate render them into functioning web applications using HTML, CSS, and Javascript
+Evaluate alternative approaches to software implementations
+Work through software malfunctions with analytical debugging techniques
+
+<h2>Prerequisites</h2>
+There are no course prerequisites and this course does not assume any prior programming experience. 
+
+The course does require projects that have been through the <a href="http://www.alexandercowan.com/software-design-class/" target="blank">Software Design</a> class, <a href="http://www.alexandercowan.com/applied-innovation-silicon-valley/" target="blank">Applied Innovation class</a> , or a similar independent study. The input into this class is user stories and prototypes that have been through a substantial customer discovery and design process- something like the <a href="http://www.alexandercowan.com/venture-design/" target="blank">Venture Design</a> process we use in the aforementioned class. 
+
+<h2>Teams + Projects</h2>
+While the assignments are a mix of individual and team assignments, students will work in teams of 2 (min) to 4 (max) individuals. Students can organize around student-submitted projects with the prerequisites above. Student projects must be accepted in advance or by the first week of class.
+
+<h2>Course Structure</h2>
+Your primary deliverable is working software and a portfolio entry about what you built and why. The software application platform is Wordpress. You can do the portfolio entry wherever you like, though I recommend Behance. 
+
+You’ll spend a lot of your class hours learning how to make stuff work. That’s normal, and it’s necessary, but the core objective is for you to understand what it takes to move from design narrative to working software. For this reason, we intersperse the class with sessions on peer review and discussion about your implementation. It’s also why your portfolio entry is a significant part of your grade.
+
+The material below is organized around 'sessions' of roughly 90 minutes/each.
+
+<h2>Grading</h2>
+
+Category | Due Date | Percent of Final Grade
+------------ | ------------- |  -------------
+Attendance, Participation, & Peer Reviews | Every day/ongoing | 30
+Completion of Individual Assignments | (as stated on Canvas) | 30
+Team Project- Working Software | Exam period | 25
+Team Project- Portfolio Entry | Exam period | 15
 
 <h2>Where Things Are</h2>
 The following table describes the location of resources for the class. 
