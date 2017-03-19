@@ -41,6 +41,26 @@ Completion of Individual Assignments | (as stated on Canvas) | 30
 Team Project- Working Software | Exam period | 25
 Team Project- Portfolio Entry | Exam period | 15
 
+**Attendance, Participation, & Peer Reviews: 30%**
+My objective is to provide a stimulating environment for you to learn the process of software development. This portion of your grade includes the following: 
+being prepared for class (assignments, background work on CodeAcademy)
+on-time attendance
+participating in classroom exercises and discussions
+posting questions, responses, and ideas to the forum (on Piazza) 
+
+I expect you to inform me before class if you will be missing.  Absences for reasons other than illness for which I do not receive prior notice will count against your class participation grade. 
+
+Since this class is fundamentally experiential and about doing (vs. just discussing), your work in peer review is an important part of your learning experience and grade. You will each have an assigned peer from outside your team and your peer review notes are a part of this portion of your grade. 
+
+**Completion of Individual Assignments: 30%**
+This includes on-time completion of the CodeAcademy lessons as well as related assignments on your project (submitted via Canvas). 
+
+**Team Project- Working Software: 25%**
+This is your final team deliverable in the form of working software on your WordPress site. 
+
+**Team Project- Portfolio Entry: 25%**
+This is your team explanation of what you did and why in the form of a portfolio entry on Behance or a similar platform.
+
 <h2>Where Things Are</h2>
 The following table describes the location of resources for the class. 
 
