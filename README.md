@@ -161,8 +161,8 @@ Begin learning about JS with background on where it came from and where it's hea
 <br> We'll spend part of class time working with help available (lab).
 <h3>Post-Class Assignments</h3>
 <ol>
-	<li><strong>Do/Individual: Finish CodeAcademy Tutorial on JQuery Up to Unit 5</strong>
-<br>WHAT? Finish the intro. <a href="https://www.codecademy.com/en/tracks/jquery" target="blank">tutorial on JQuery</a> from CodeAcademy. Stop at Unit 5.
+	<li><strong>Do/Individual: Finish CodeAcademy Course on JQuery</strong>
+<br>WHAT? Finish the intro. <a href="https://www.codecademy.com/learn/jquery" target="blank">tutorial on JQuery</a> from CodeAcademy. 
 <br><br>WHERE? Submit the URL of the page.</li>
 </ol>
 
