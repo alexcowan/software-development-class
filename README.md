@@ -216,108 +216,63 @@ Continue work on JS and individual projects.
 <li><strong>Do/Individual: Work Codecademy Course on JS</strong>
 <br>Complete the following from the <a href="https://www.codecademy.com/learn/learn-javascript" target="blank">CodeAcademy Course 'Javascript'</a>:
 <br>Arrays<br>
-Loops
+Loops</li>
 </ol>
 <h2>Session 9: Final Project Design<h2>
 <h3>Objective</h3>
 Continue work on JS and individual projects.
 <h3>In-Class Materials</h3>
-(COMING SOON) 
 <br> We'll spend part of class time working with help available (lab).
 <h3>Post-Class Assignments</h3>
 <ol>
-	<li><strong>Do/Individual: Work Assignment 'Interactive Pages II'</strong>
-<br>WHAT? Create your next interactive page. While this is an individual assignment, you will likely need to coordinate as a group. Be sure to add the following a comment explaining what you did: '[your initials] Interactive Page Concept II'<br> Be prepared to explain how it delivers (will deliver) on your user stories and prototypes.
-<br><br>WHERE? Submit the URL of the page.</li>
-	<li><strong>Do/Individual: Work CodeAcademy Tutorial on Javacript</strong>
-<br>WHAT? By the next session you'll need to be up to the module ''FOR' LOOPS IN JAVASCRIPT' in the  <a href="https://www.codecademy.com/en/tracks/javascript" target="blank">CodeAcademy tutorial on Javascript</a>. 
-<br><br>WHERE? Submit a screenshot of the completion page.</li>
+<li><strong>Do/Individual: Work Codecademy Course on JS</strong>
+<br>Complete the following from the <a href="https://www.codecademy.com/learn/learn-javascript" target="blank">CodeAcademy Course 'Javascript'</a>:
+<br>JavaScript and jQuery</li>
 </ol>
 
 <h2>Session 10: Coding Project I<h2>
 <h3>Objective</h3>
 Continue work on JS and individual projects.
 <h3>In-Class Materials</h3>
-(COMING SOON) 
 <br> We'll spend part of class time working with help available (lab).
 <h3>Post-Class Assignments</h3>
-<ol>
-	<li><strong>Do/Individual: Complete Assignment 'Interactive Pages II'</strong>
-<br>WHAT? Create your next interactive page. While this is an individual assignment, you will likely need to coordinate as a group. Be sure to add the following a comment explaining what you did: '[your initials] Interactive Page Concept II'<br> Be prepared to explain how it delivers (will deliver) on your user stories and prototypes.
-<br><br>WHERE? Submit the URL of the page.</li>
-	<li><strong>Do/Individual: Work CodeAcademy Tutorial on Javacript</strong>
-<br>WHAT? By this session you'll need to be up to the module ''FOR' LOOPS IN JAVASCRIPT' in the  <a href="https://www.codecademy.com/en/tracks/javascript" target="blank">CodeAcademy tutorial on Javascript</a>. 
-<br><br>WHERE? Submit a screenshot of the completion page.</li>
-<li><strong>Do/Individual: Design for Assignment 'Interactive Pages III'</strong>
-<br>WHAT? Design your approach to the assignment 'Interactive Pages III'. This should include <a href="http://www.alexandercowan.com/best-agile-user-story/" target="blank">user stories</a> and prototypes in Balsamiq and be an enhancement to your existing work. 
-<br><br>WHERE? Place this in Section 3 of your Group Venture Design doc using an H3. Name it '[your initials] Interactive Page Concept III'. If this is an update to your existing section, you can just rename it. Add a bookmark in the Google Doc and submit that link.</li>
-</ol>
-
+n/a- work final project
 <h2>Session 11: Coding Project II<h2>
 <h3>Objective</h3>
 Continue work on JS and individual projects.
 <h3>In-Class Materials</h3>
-(COMING SOON) 
 <br> We'll spend part of class time working with help available (lab).
 <h3>Post-Class Assignments</h3>
-<ol>
-	<li><strong>Do/Individual: Work Assignment 'Interactive Pages III'</strong>
-<br>WHAT? Create your next interactive page. While this is an individual assignment, you will likely need to coordinate as a group. Be sure to add the following a comment explaining what you did: '[your initials] Interactive Page Concept II'<br> Be prepared to explain how it delivers (will deliver) on your user stories and prototypes.
-<br><br>WHERE? Submit the URL of the page.</li>
-	<li><strong>Do/Individual: Work CodeAcademy Tutorial on Javacript</strong>
-<br>WHAT? By the next session you'll need to be up to the module ''Data Structures' in the  <a href="https://www.codecademy.com/en/tracks/javascript" target="blank">CodeAcademy tutorial on Javascript</a>. 
-<br><br>WHERE? Submit a screenshot of the completion page.</li>
-</ol>
+n/a- work final project
 
 <h2>Session 12: Coding Project III<h2>
 <h3>Objective</h3>
 Continue work on JS and individual projects.
 <h3>In-Class Materials</h3>
-(COMING SOON) 
 <br> We'll spend part of class time working with help available (lab).
 <h3>Post-Class Assignments</h3>
-<ol>
-	<li><strong>Do/Individual: Complete Assignment 'Interactive Pages III'</strong>
-<br>WHAT? Create your next interactive page. While this is an individual assignment, you will likely need to coordinate as a group. Be sure to add the following a comment explaining what you did: '[your initials] Interactive Page Concept II'<br> Be prepared to explain how it delivers (will deliver) on your user stories and prototypes.
-<br><br>WHERE? Submit the URL of the page.</li>
-	<li><strong>Do/Individual: Work CodeAcademy Tutorial on Javacript</strong>
-<br>WHAT? By this session you'll need to be up to the module ''FOR' LOOPS IN JAVASCRIPT' in the  <a href="https://www.codecademy.com/en/tracks/javascript" target="blank">CodeAcademy tutorial on Javascript</a>. 
-<br><br>WHERE? Submit a screenshot of the completion page.</li>
-<li><strong>Do/Individual: Design for Assignment 'Interactive Pages IV'</strong>
-<br>WHAT? Design your approach to the assignment 'Interactive Pages IV'. This should include <a href="http://www.alexandercowan.com/best-agile-user-story/" target="blank">user stories</a> and prototypes in Balsamiq and be an enhancement to your existing work. 
-<br><br>WHERE? Place this in Section 3 of your Group Venture Design doc using an H3. Name it '[your initials] Interactive Page Concept III'. If this is an update to your existing section, you can just rename it. Add a bookmark in the Google Doc and submit that link.</li>
-</ol>
+Submit preliminary version of final projects for review by peers: working software + porfolio entry. 
 
 <h2>Session 13: Coding Project IV<h2>
 <h3>Objective</h3>
 Create a working fluency with HTML+CSS+JS.
 <h3>In-Class Materials</h3>
-(COMING SOON) 
 <br> We'll spend part of class time working with help available (lab).
 <h3>Post-Class Assignments</h3>
-<ol>
-	<li><strong>Do/Individual: Work Assignment 'Interactive Pages IV'</strong>
-<br>WHAT? Create your next interactive page. While this is an individual assignment, you will likely need to coordinate as a group. Be sure to add the following a comment explaining what you did: '[your initials] Interactive Page Concept II'<br> Be prepared to explain how it delivers (will deliver) on your user stories and prototypes.
-<br><br>WHERE? Submit the URL of the page.</li>
-	<li><strong>Do/Individual: Work CodeAcademy Tutorial on Javacript</strong>
-<br>WHAT? By the next session you'll need to complete the  <a href="https://www.codecademy.com/en/tracks/javascript" target="blank">CodeAcademy tutorial on Javascript</a>. 
-<br><br>WHERE? Submit a screenshot of the completion page.</li>
-</ol>
+n/a- work final project
 
 <h2>Session 14: Wrap Up<h2>
 <h3>Objective</h3>
 Create a working fluency with HTML+CSS+JS.
 <h3>In-Class Materials</h3>
-(COMING SOON) 
 <br> We'll spend part of class time working with help available (lab).
 <h3>Post-Class Assignments</h3>
 <ol>
-	<li><strong>Do/Individual: Complete Assignment 'Interactive Pages IV'</strong>
-<br>WHAT? Finalize your next interactive page. While this is an individual assignment, you will likely need to coordinate as a group. Please submit using the final assignment template:
-https://docs.google.com/document/d/1QHlTQLEZgIKnZnIlNIgHVTy8-K6gXLdxbtN6pCtogPg/edit# 
-Please be sure to share that to acowan@alexandercowan.com and to submit the URL on this assignment.
-
-	<li><strong>Do/Individual: Complete CodeAcademy Tutorial on Javacript</strong>
-<br>WHAT? By this session you'll need to completethe  <a href="https://www.codecademy.com/en/tracks/javascript" target="blank">CodeAcademy tutorial on Javascript</a>. 
-<br><br>WHERE? Submit a screenshot of the completion page.</li>
+	<li><strong>Do/Group: Complete Final Project- Working Software</strong>
+<br>WHAT? Finalize your implementation of the target working software. 
+<br>WHERE? Submit the URL of the pages along with the assigned submission note.</li>
+	<li><strong>Do/Group: Complete Final Project- Portfolio Entry</strong>
+<br>WHAT? Finalize your portfolio entry.
+<br>WHERE? Submit the URL of the portoflio entry.</li>
+	
 </ol>
