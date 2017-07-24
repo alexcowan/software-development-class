@@ -2,7 +2,7 @@
 <h2>Hi There</h2>
 It's not too late to learn about coding! 
 
-This is a short intro. class on design-driven software development. It's (very) roughly 60 hours of content, including class time and assignment time. It's designed for a learner that's comfortable with <a href="http://www.alexandercowan.com/best-agile-user-story/" target="blank">user stories</a> and related techniques on software design that I cover in this class: <a href="http://www.alexandercowan.com/software-design-class/" target="blank">Software Design</a>. That class is not a prerequisite, but if you haven't taken it you may need to budget a little extra time to loop back and cover a few key topics. 
+This is a short intro. class on design-driven software development for the MBA/businessperson. When I teach it at UVA Darden, it's (very) roughly 60 hours of content, including class time and assignment time. It's designed for a learner that's comfortable with <a href="http://www.alexandercowan.com/best-agile-user-story/" target="blank">user stories</a> and related techniques on software design that I cover in this class: <a href="http://www.alexandercowan.com/software-design-class/" target="blank">Software Design</a>. That class is not a prerequisite, but if you haven't taken it you may need to budget a little extra time to loop back and cover a few key topics. 
 
 <h2>Course Descriptions + Objectives</h2>
 By the end of this class, you will have lost your fear of tinkering (with software). 
