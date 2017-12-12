@@ -23,10 +23,10 @@ There are no course prerequisites and this course does not assume any prior prog
 The course does require projects that have been through the <a href="http://www.alexandercowan.com/software-design-class/" target="blank">Software Design</a> class, <a href="http://www.alexandercowan.com/applied-innovation-silicon-valley/" target="blank">Applied Innovation class</a> , or a similar independent study. The input into this class is user stories and prototypes that have been through a substantial customer discovery and design process- something like the <a href="http://www.alexandercowan.com/venture-design/" target="blank">Venture Design</a> process we use in the aforementioned class. A suitable design would have most of the elements you see in this <a href="http://ref.alexandercowan.com/pdesign" target="blank">Venture Design template</a>
 
 <h2>Teams + Projects</h2>
-While the assignments are a mix of individual and team assignments, students will work in teams of 2 (min) to 4 (max) individuals. Students can organize around student-submitted projects with the prerequisites above. Student projects must be accepted in advance or by the first week of class.
+While the assignments are a mix of individual and team assignments, students will work in teams of 2 (min) to 4 (max) individuals. Students can organize around student-submitted projects with the prerequisites above. Student projects must be accepted in advance or by the first class session.
 
 <h2>Course Structure</h2>
-Your primary deliverable is working software and a <a href="https://www.alexandercowan.com/creating-personal-innovation-portfolio/#Application_Development" target="blank">portfolio entry</a> about what you built and why. The software application platform is Wordpress. You can do the portfolio entry wherever you like, though I recommend Behance. 
+Your primary deliverable is working software and a <a href="https://www.alexandercowan.com/creating-personal-innovation-portfolio/#Application_Development" target="blank">portfolio entry</a> about what you built and why. The software application platform is Wordpress. 
 
 You’ll spend a lot of your class hours learning how to make stuff work. That’s normal, and it’s necessary, but the core objective is for you to understand what it takes to move from design narrative to working software. For this reason, we intersperse the class with sessions on peer review and discussion about your implementation. It’s also why your portfolio entry is a significant part of your grade.
 
@@ -36,30 +36,23 @@ The material below is organized around 'sessions' of roughly 90 minutes/each.
 
 Category | Due Date | Percent of Final Grade
 ------------ | ------------- |  -------------
-Attendance, Participation, & Peer Reviews | Every day/ongoing | 30
-Completion of Individual Assignments | (as stated on Canvas) | 30
-Team Project- Working Software | Exam period | 25
+Attendance & Participation | Every day/ongoing | 50
+Team Project- Working Software | Exam period | 35
 Team Project- Portfolio Entry | Exam period | 15
 
-**Attendance, Participation, & Peer Reviews: 30%**
+**Attendance & Participation: 30%**
 My objective is to provide a stimulating environment for you to learn the process of software development. This portion of your grade includes the following: 
-being prepared for class (assignments, background work on CodeAcademy)
-on-time attendance
-participating in classroom exercises and discussions
+being prepared for class: understand the topics at hand and being able to discuss your work and your team's work
+on-time, full attendance
 posting questions, responses, and ideas to the forum (on Piazza) 
 
 I expect you to inform me before class if you will be missing.  Absences for reasons other than illness for which I do not receive prior notice will count against your class participation grade. 
 
-Since this class is fundamentally experiential and about doing (vs. just discussing), your work in peer review is an important part of your learning experience and grade. You will each have an assigned peer from outside your team and your peer review notes are a part of this portion of your grade. 
-
-**Completion of Individual Assignments: 30%**
-This includes on-time completion of the CodeAcademy lessons as well as related assignments on your project (submitted via Canvas). 
-
-**Team Project- Working Software: 25%**
+**Team Project- Working Software: 35%**
 This is your final team deliverable in the form of working software on your WordPress site. 
 
 **Team Project- Portfolio Entry: 25%**
-This is your team explanation of what you did and why in the form of a portfolio entry on Behance or a similar platform.
+This is your team explanation of what you did and why in the form of a portfolio entry on Behance.
 
 <h2>Where Things Are</h2>
 The following table describes the location of resources for the class. 
