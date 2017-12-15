@@ -68,10 +68,14 @@ I want to notes on setting up WP Engine and Wordpress so I don't have to figure 
 I want to post a question on Piazza so I can get help from my peers and the teaching team. | Please see our handy WP Engine/WP Guide: <a href="https://piazza.com/class/if6595ccwgg25e/" target="blank">Piazza Site for GBUS 8633</a>
 I want to review the Model View Controller (MVC) framework, so I have a generalized framework for thinking through software composition and structure. | Please see our handy tutorial: <a href="http://www.alexandercowan.com/mvc-model-view-controller-overview/" target="blank">Model View Controller Tutorial</a>
 
-<h2>Session 1: Kickoff & Intro to HTML+CSS<h2>
-<h3>Objective</h3>
-Introduce the class objectives and infrastructure. Start on HTML & CSS. 
-<h3>Pre-Class Assignments</h3>
+<h2>Session 1:Introduction to HTML</h2>
+Objective: Achieve basic working proficiency with HTML.
+Case: <a href="https://www.alexandercowan.com/from-prototype-to-html/" target="blank">From Prototype to HTML</a>
+Supplemental Materials: 
+Written Tutorial- <a href="https://www.w3schools.com/html/html_intro.asp" target="blank">HTML Introduction</a> 
+or for more depth and structure
+Online Course- <a href="https://www.codecademy.com/courses/learn-html-elements/lessons/intro-to-html/" target="blank">Learn HTML</a> (I would stick to just the first module ‘HTML Elements and Structure’ and (unless you’re interested) skip the module on tables, ‘HTML Tables’)
+<h3>Assignment</h3>
 <ol>
 	<li><strong>Do/Individual: Pick a Project & (Optional) Team and Prepare Your Design</strong>
 <br>WHAT? Pick a project and make sure you have at least:
