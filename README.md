@@ -77,11 +77,8 @@ or for more depth and structure<br/>
 Online Course- <a href="https://www.codecademy.com/courses/learn-html-elements/lessons/intro-to-html/" target="blank">Learn HTML</a> (I would stick to just the first module ‘HTML Elements and Structure’ and (unless you’re interested) skip the module on tables, ‘HTML Tables’)
 <h3>Assignment</h3>
 <ol>
-	<li>Read the <a href="https://www.alexandercowan.com/from-prototype-to-html/" target="blank">case</a>.Looking at the sample code on JS Fiddle, can you identify all the HTML elements? Can you explain their roles? Suppose you wanted to create rounded corners on the div elements with a solid border? How would you do that? What else do you think is worth trying? Try it out!</li>
+	<li>Read the <a href="https://www.alexandercowan.com/from-prototype-to-html/" target="blank">case</a>. Looking at the sample code on JS Fiddle, can you identify all the HTML elements? Can you explain their roles? Suppose you wanted to create rounded corners on the div elements with a solid border? How would you do that? What else do you think is worth trying? Try it out!</li>
 	<li>In order to have something you can show and discuss in class, you'll need to fork the JS Fiddle and save your edits</li>
-	<li></li>
-	<li></li>
-	<li>What else do you think is worth trying? Try it out!</li>
 </ol>
 Notes: 
 In class, we'll step through the elements of the page and edit them based on ideas for moving it forward. Doing Google searches like 'create round border on a div' is a great way to learn and get comfortable working through implementations. 
