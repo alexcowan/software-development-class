@@ -70,7 +70,7 @@ I want to review the Model View Controller (MVC) framework, so I have a generali
 
 <h2>Session 1:Introduction to HTML</h2>
 <strong>Objective:</strong> Achieve basic working proficiency with HTML.<br/>
-<strong>Case:</strong> <a href="https://www.alexandercowan.com/from-prototype-to-html/" target="blank">From Prototype to HTML</a><br/>
+<strong>Case:</strong> <a href="https://www.alexandercowan.com/from-prototype-to-html/" target="_blank">From Prototype to HTML</a><br/>
 <strong>Supplemental Materials:</strong> <br/>
 Written Tutorial- <a href="https://www.w3schools.com/html/html_intro.asp" target="blank">HTML Introduction</a> <br/>
 or for more depth and structure<br/>
