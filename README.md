@@ -69,7 +69,7 @@ I want to post a question on Piazza so I can get help from my peers and the teac
 I want to review the Model View Controller (MVC) framework, so I have a generalized framework for thinking through software composition and structure. | Please see our handy tutorial: <a href="http://www.alexandercowan.com/mvc-model-view-controller-overview/" target="blank">Model View Controller Tutorial</a>
 
 <h2>Session 1:Introduction to HTML</h2>
-Objective: Achieve basic working proficiency with HTML.<br/>
+Objective: Achieve basic working proficiency with HTML.<br/><br/>
 Case: <a href="https://www.alexandercowan.com/from-prototype-to-html/" target="blank">From Prototype to HTML</a><br/>
 Supplemental Materials: <br/>
 Written Tutorial- <a href="https://www.w3schools.com/html/html_intro.asp" target="blank">HTML Introduction</a> <br/>
