@@ -70,21 +70,22 @@ I want to review the Model View Controller (MVC) framework, so I have a generali
 
 <h2>Session 1:Introduction to HTML</h2>
 Objective: Achieve basic working proficiency with HTML.<br/>
-Case: <a href="https://www.alexandercowan.com/from-prototype-to-html/" target="blank">From Prototype to HTML</a>
-Supplemental Materials: 
-Written Tutorial- <a href="https://www.w3schools.com/html/html_intro.asp" target="blank">HTML Introduction</a> 
-or for more depth and structure
+Case: <a href="https://www.alexandercowan.com/from-prototype-to-html/" target="blank">From Prototype to HTML</a><br/>
+Supplemental Materials: <br/>
+Written Tutorial- <a href="https://www.w3schools.com/html/html_intro.asp" target="blank">HTML Introduction</a> <br/>
+or for more depth and structure<br/>
 Online Course- <a href="https://www.codecademy.com/courses/learn-html-elements/lessons/intro-to-html/" target="blank">Learn HTML</a> (I would stick to just the first module ‘HTML Elements and Structure’ and (unless you’re interested) skip the module on tables, ‘HTML Tables’)
 <h3>Assignment</h3>
 <ol>
-	<li><strong>Do/Individual: Pick a Project & (Optional) Team and Prepare Your Design</strong>
-<br>WHAT? Pick a project and make sure you have at least:
-<br>- <a href="http://www.alexandercowan.com/best-agile-user-story/" target="blank">User Stories</a> (epics and detail with child stories)
-<br>- Prototype to articulate your user stories (<a href="http://www.alexandercowan.com/build-your-first-prototype-in-30-minutes/" target="blank">Tutorial</a>) 
-<br>Being prepared with these items is important because one of the class' core objectives is learning to focus your work with stories. It's also important to have a pretty specific execution because when you're confronted with all the hooks and dials available to you, it helps to have a pre-existing idea of what you want to have happen.
-<br><br>
-WHERE? Using the <a href="https://docs.google.com/document/d/1M7UGO-XymKBNfFvqIjeWdABO7z1f4JOaje_VjCOi4ss/edit" target="_blank">Venture Design template</a>.</li>
+	<li>Read the <a href="https://www.alexandercowan.com/from-prototype-to-html/" target="blank">case</a>.Looking at the sample code on JS Fiddle, can you identify all the HTML elements? Can you explain their roles? Suppose you wanted to create rounded corners on the div elements with a solid border? How would you do that? What else do you think is worth trying? Try it out!</li>
+	<li>In order to have something you can show and discuss in class, you'll need to fork the JS Fiddle and save your edits</li>
+	<li></li>
+	<li></li>
+	<li>What else do you think is worth trying? Try it out!</li>
 </ol>
+Notes: 
+In class, we'll step through the elements of the page and edit them based on ideas for moving it forward. Doing Google searches like 'create round border on a div' is a great way to learn and get comfortable working through implementations. 
+
 <h3>In-Class Materials</h3>
 <a href="https://www.scribd.com/doc/286119678/Software-Development-Class-Session-1" target="_blank">Intro Slides for 'Software Development'</a>
 <br> We'll spend part of class time working with help available (lab).
